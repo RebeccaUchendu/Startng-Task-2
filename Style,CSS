@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    padding: 0px
+    color: black;
+
+}
+body {
+    font-family: 'Chilanka', cursive;
+    font-size: 150%
+
+}
+h1 {
+    color: blue
+}
+h3 {
+    background-color: violet;
+
+}
+h4 {
+    background-color: peru;
+
+}
+h5 {
+    background-color: aqua;
+
+}
+h6 {
+    background-color: gold;
